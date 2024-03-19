@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Alaskan",
+        "titulo": "Alaskan",
+        "imagen": "./img/camionetas/alaskan.jpg",
+        "categoria": {
+            "nombre": "Camionetas",
+            "id": "camionetas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Amarok",
+        "titulo": "Amarok",
+        "imagen": "./img/camionetas/amarok.jpg",
+        "categoria": {
+            "nombre": "Camionetas",
+            "id": "camionetas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "Raptor",
+        "titulo": "Raptor",
+        "imagen": "./img/camionetas/raptor.jpg",
+        "categoria": {
+            "nombre": "Camionetas",
+            "id": "camionetas"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "S10",
+        "titulo": "S10",
+        "imagen": "./img/camionetas/s10.jpg",
+        "categoria": {
+            "nombre": "Camionetas",
+            "id": "camionetas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "Toro",
+        "titulo": "Toro",
+        "imagen": "./img/camionetas/toro.jpg",
+        "categoria": {
+            "nombre": "Camionetas",
+            "id": "camionetas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Alfaromeo",
+        "titulo": "Alfaromeo",
+        "imagen": "./img/deportivos/alfaromeo.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Ferrari",
+        "titulo": "Ferrari",
+        "imagen": "./img/deportivos/ferrari.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "Lamborghini",
+        "titulo": "Lamborghini",
+        "imagen": "./img/deportivos/lambo.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 500
+    },
+    {
+        "id": "Maserati",
+        "titulo": "Maserati",
+        "imagen": "./img/deportivos/maserati.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "Mercedes Benz",
+        "titulo": "Mercedes Benz",
+        "imagen": "./img/deportivos/mercedes.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "Porsche",
+        "titulo": "Porsche",
+        "imagen": "./img/deportivos/porsche.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Tesla",
+        "titulo": "Tesla",
+        "imagen": "./img/deportivos/tesla.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pagani",
+        "titulo": "Pagani",
+        "imagen": "./img/deportivos/zonda.jpg",
+        "categoria": {
+            "nombre": "Deportivos",
+            "id": "deportivos"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "Ducati",
+        "titulo": "Ducati",
+        "imagen": "./img/motos/ducati.jpg",
+        "categoria": {
+            "nombre": "Motos",
+            "id": "motos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "Honda",
+        "titulo": "Honda",
+        "imagen": "./img/motos/honda.jpg",
+        "categoria": {
+            "nombre": "Motos",
+            "id": "motos"
+        },
+        "precio": 250
+    },
+    {
+        "id": "Kawasaki",
+        "titulo": "Kawasaki",
+        "imagen": "./img/motos/kawasaki.jpg",
+        "categoria": {
+            "nombre": "Motos",
+            "id": "motos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Yamaha",
+        "titulo": "Yamaha",
+        "imagen": "./img/motos/yamaha.jpg",
+        "categoria": {
+            "nombre": "Motos",
+            "id": "motos"
+        },
+        "precio": 300
+    },
+    {
+        "id": "Benelli",
+        "titulo": "Benelli",
+        "imagen": "./img/motos/benelli.jpg",
+        "categoria": {
+            "nombre": "Motos",
+            "id": "motos"
+        },
+        "precio": 500
+    }
+]
